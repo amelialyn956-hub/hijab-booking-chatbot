@@ -1,0 +1,37 @@
+# Hijab Booking Chatbot - Built with Botpress
+
+An AI booking assistant for a Hijab Store in Makassar, Indonesia.
+This bot handles bookings automatically like a real customer service.
+
+## What This Bot Does
+
+- Asks customer name
+- Asks service: Booking Jilbab
+- Asks booking date
+- Asks booking time
+- Summarizes all details
+- Asks for confirmation
+- Confirms booking automatically
+
+## Live Demo Flow
+
+User: Booking jilbab
+Bot: Untuk tanggal berapa ingin booking?
+User: Lusa
+Bot: Jam berapa?
+User: Jam 10.00
+Bot: Detail booking-nya... Apakah sudah benar?
+User: Iya benar
+Bot: Booking jilbab untuk lusa pukul 10.00 sudah dikonfirmasi. Sampai jumpa!
+
+## Tech Stack
+
+- Platform: Botpress Cloud
+- Type: Autonomous AI Agent
+- Language: Bahasa Indonesia
+- Status: Live & Published
+
+## Built By
+
+Mel - Freelance IT | Makassar, Indonesia
+Available for custom chatbot projects on Upwork.
